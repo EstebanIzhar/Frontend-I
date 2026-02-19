@@ -1,0 +1,37 @@
+
+body {
+    font-family: Arial;
+    max-width: 500px;
+    margin: 20px;
+}
+
+input {
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 5px 5px 5px 0;
+}
+
+#resultado {
+    margin: 15px 0;
+    padding: 10px;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 3px;
+    margin: 3px 0;
+    background: #f0f0f0;
+}
+
+p {
+    margin: 5px 0;
+}
